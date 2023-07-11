@@ -3,6 +3,9 @@ module github.com/NikitaSkrynnik/cmd-nsc-init
 go 1.20
 
 require (
+	github.com/NikitaSkrynnik/api v1.0.1-0.20230711064101-51396a9946fc
+	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230711090343-6d55d1862089
+	github.com/NikitaSkrynnik/sdk-sriov v0.0.0-20230711090749-c0d533991b3e
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
 	github.com/edwarnicke/grpcfd v1.1.2
 	github.com/kelseyhightower/envconfig v1.4.0
@@ -12,7 +15,6 @@ require (
 )
 
 require (
-	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230711085827-4db638c6c620 // indirect
 	github.com/OneOfOne/xxhash v1.2.8 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
