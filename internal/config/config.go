@@ -21,7 +21,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/networkservicemesh/sdk/pkg/tools/awarenessgroups"
+	"github.com/NikitaSkrynnik/sdk/pkg/tools/awarenessgroups"
 )
 
 // Config - configuration for cmd-nsc-init

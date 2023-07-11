@@ -1,4 +1,4 @@
-module github.com/networkservicemesh/cmd-nsc-init
+module github.com/NikitaSkrynnik/cmd-nsc-init
 
 go 1.20
 
@@ -6,15 +6,13 @@ require (
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
 	github.com/edwarnicke/grpcfd v1.1.2
 	github.com/kelseyhightower/envconfig v1.4.0
-	github.com/networkservicemesh/api v1.9.1-0.20230627143611-9785eacf9687
-	github.com/networkservicemesh/sdk v0.5.1-0.20230710100721-01bb35f8c3d6
-	github.com/networkservicemesh/sdk-sriov v0.0.0-20230710101603-bbccb51d433a
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spiffe/go-spiffe/v2 v2.0.0
 	google.golang.org/grpc v1.55.0
 )
 
 require (
+	github.com/NikitaSkrynnik/sdk v0.5.1-0.20230711085827-4db638c6c620 // indirect
 	github.com/OneOfOne/xxhash v1.2.8 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
