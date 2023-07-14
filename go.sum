@@ -40,8 +40,8 @@ github.com/NikitaSkrynnik/api v1.0.1-0.20230711064101-51396a9946fc h1:yMHA//UiNx
 github.com/NikitaSkrynnik/api v1.0.1-0.20230711064101-51396a9946fc/go.mod h1:6va68ed+AyiYRSNK/RQ91XEZdYHDfb6xVyBzjVhlGVs=
 github.com/NikitaSkrynnik/sdk v0.5.1-0.20230713091735-3c7850b9a59a h1:jQ7S7cQERlKObYLpsb+SpUtSUKRuQg4/V3oe27z0Bpo=
 github.com/NikitaSkrynnik/sdk v0.5.1-0.20230713091735-3c7850b9a59a/go.mod h1:zmGb/Hc6WN95sfc0vf5cz6IdbsaY/t76jtFlaMnIrB8=
-github.com/NikitaSkrynnik/sdk-sriov v0.0.0-20230711090749-c0d533991b3e h1:zXXToQ65TOpkqahcBpchJVaHpwMga3IEihAOQAOUdc0=
-github.com/NikitaSkrynnik/sdk-sriov v0.0.0-20230711090749-c0d533991b3e/go.mod h1:fY65SlPSu7Ah9fW7dKxFVWsZAUrgXE1w7ry+b+SqBAk=
+github.com/NikitaSkrynnik/sdk-sriov v0.0.0-20230713061756-b0b24b643b60 h1:7nBAJV7VC7G0TZAppXesfzkYli/+aU3Daq2xVL+JMis=
+github.com/NikitaSkrynnik/sdk-sriov v0.0.0-20230713061756-b0b24b643b60/go.mod h1:se/J2IknqIiAh6txe7cONua150jwXJrK+GF7ZhNH0+A=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/OneOfOne/xxhash v1.2.8 h1:31czK/TI9sNkxIKfaUfGlU47BAxQ0ztGgd9vPyqimf8=
 github.com/OneOfOne/xxhash v1.2.8/go.mod h1:eZbhyaAYD41SGSSsnmcpxVoRiQ/MPUTjUdIIOT9Um7Q=
